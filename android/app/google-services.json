@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518167817963",
+    "project_id": "sini-jajan-prototype",
+    "storage_bucket": "sini-jajan-prototype.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518167817963:android:d5d58766cd2560b81558ae",
+        "android_client_info": {
+          "package_name": "com.example.sini_jajan_prototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALvr05ZQy-OUVkqXX4sMkH2VCrdnX0qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
