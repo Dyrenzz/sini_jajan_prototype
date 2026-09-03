@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Project Component
+- Flutter | Version 3.47.2
+- Dart | Version 3.13.2
+- JDK | 21
+- Android SDK Command-line Tools | Version 22.0
